@@ -32,19 +32,9 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 <table><tr><td valign="top" width="50%">
 
 - 🎓 Bachelor of Design and Visual Communication  
-  
-
 - 🌱 I’m currently learning Redux Toolkit  
-  
-
 - ⚡ Fun fact: I love my cats  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
