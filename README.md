@@ -1,4 +1,4 @@
-
+![](https://media.licdn.com/dms/image/D4D16AQG2pMBGa9kmcw/profile-displaybackgroundimage-shrink_350_1400/0/1676248015342?e=1681948800&v=beta&t=hFAWiPbMMM1b2dFtyeX2I2GEEsxXMeo8HXUF60UR8n0)
 ## Hey 👋, I'm Walter Martinez!  
   
 
@@ -28,7 +28,7 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 - 🎓 Bachelor of Design and Visual Communication  
 - 🌱 I’m currently learning Redux Toolkit  
@@ -36,7 +36,7 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 
 
 
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
