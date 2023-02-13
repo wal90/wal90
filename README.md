@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQG2pMBGa9kmcw/profile-displaybackgroundimage-shrink_350_1400/0/1676248015342?e=1681948800&v=beta&t=hFAWiPbMMM1b2dFtyeX2I2GEEsxXMeo8HXUF60UR8n0)
+![](https://media.licdn.com/dms/image/D4D16AQG2pMBGa9kmcw/profile-displaybackgroundimage-shrink_350_1400/0/1676248015342?e=1681948800&v=beta&t=hFAWiPbMMM1b2dFtyeX2I2GEEsxXMeo8HXUF60UR8n0)
 ## Hey 👋, I'm Walter Martinez!  
   
 
@@ -67,6 +67,3 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 
 <br/>  
 
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
