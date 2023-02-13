@@ -28,7 +28,7 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 
 
 ## Rapidfire  
-<table><td valign="top" width="50%">
+
 
 - 🎓 Bachelor of Design and Visual Communication  
 - 🌱 I’m currently learning Redux Toolkit  
@@ -36,7 +36,7 @@ I consider myself a creative, thoughtful, proactive and planning person with the
 
 
 
-</td></table>  
+ 
 
 <br/>  
 
