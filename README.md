@@ -5,7 +5,7 @@
 
 
 ### Glad to see you here!  
-Full Stack Developer whith education in Design and Visual Comunication. Experience working whith Node.js, React, Redux, SQL, CSS among other technologies in the sector.
+Full Stack Developer with education in Design and Visual Comunication. Experience working whith Node.js, React, Redux, SQL, CSS among other technologies in the sector.
 I consider myself a creative, thoughtful, proactive and planning person with the purpose of innovating and generating visual awareness, that is, to carry out a unique, creative and functional design according to the client and focused on its public together with attractive quality content that will enhance the project to achieve the proposed objectives.
   
   
