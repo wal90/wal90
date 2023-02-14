@@ -10,16 +10,16 @@ I consider myself a creative, thoughtful, proactive and planning person with the
   
   
 
-<a href="https://github.com/wal90" target="blank">
+<a href="https://github.com/wal90" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/walter-martinez-71024529/" target="blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/walter-martinez-71024529/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/walteromartinez/" target="blank">
+<a href="https://www.instagram.com/walteromartinez/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/walteromar7605" target="blank">
+<a href="https://www.behance.net/https://www.behance.net/walteromar7605" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
   
