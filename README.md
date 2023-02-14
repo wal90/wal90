@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4D16AQG2pMBGa9kmcw/profile-displaybackgroundimage-shrink_350_1400/0/1676248015342?e=1681948800&v=beta&t=hFAWiPbMMM1b2dFtyeX2I2GEEsxXMeo8HXUF60UR8n0)
+![](https://media.licdn.com/dms/image/D4D16AQEuuNhxCYb5Gg/profile-displaybackgroundimage-shrink_350_1400/0/1676405207680?e=1681948800&v=beta&t=iSHNyFTOvgTa7SD75DyQI1MV4xEpwaCmXS1e5FKnU3w)
 ## Hey 👋, I'm Walter Martinez!  
   
 
