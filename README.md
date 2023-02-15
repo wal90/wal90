@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Soy Full Stack Developer con formacion en diseño y Comunicación Visual. Experiencia trabajando con Node.js, React, Redux, SQL, CSS entre otras tecnologías del sector. <br>Me considero una persona creativa, detallista, proactiva y planificadora con el propósito de innovar y generar conciencia visual, es decir, realizar un diseño único, creativo y funcional acorde al cliente y enfocado al público del mismo junto a un contenido atractivo de calidad que potenciará el proyecto para alcanzar los objetivos propuestos.</p>
+<p align="left">Soy Full Stack Developer con formacion en Diseño y Comunicación Visual. Experiencia trabajando con Node.js, React, Redux, SQL, CSS entre otras tecnologías del sector. <br>Me considero una persona creativa, detallista, proactiva y planificadora con el propósito de innovar y generar conciencia visual, es decir, realizar un diseño único, creativo y funcional acorde al cliente y enfocado al público del mismo junto a un contenido atractivo de calidad que potenciará el proyecto para alcanzar los objetivos propuestos.</p>
 
 ###
 
