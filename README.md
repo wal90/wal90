@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170" src="https://media.licdn.com/dms/image/D4D16AQEuuNhxCYb5Gg/profile-displaybackgroundimage-shrink_350_1400/0/1676405207680?e=1681948800&v=beta&t=iSHNyFTOvgTa7SD75DyQI1MV4xEpwaCmXS1e5FKnU3w"  />
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQEuuNhxCYb5Gg/profile-displaybackgroundimage-shrink_350_1400/0/1676405207680?e=1681948800&v=beta&t=iSHNyFTOvgTa7SD75DyQI1MV4xEpwaCmXS1e5FKnU3w"  />
 </div>
 
 ###
@@ -68,6 +68,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wal/wal/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
