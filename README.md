@@ -1,5 +1,7 @@
+![portada](https://user-images.githubusercontent.com/71738691/234725288-52c47358-ad5f-4bfd-8f41-bec09af4d33a.png)
+
 <div align="center">
-  ![portada](https://user-images.githubusercontent.com/71738691/234725046-f5d037cc-8b84-4d6a-a4e7-78858bc81b64.png)
+  
 
 </div>
 
