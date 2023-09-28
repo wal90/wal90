@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🎓Licenciado en Diseño y Comunicacón Visual<br>📚 Estoy aprendiendo Redux Toolkit<br>🎲 Fun fact: Amo a mis gatos</p>
+<p align="left">🎓Licenciado en Diseño y Comunicacón Visual<br>📚 Estudiando Diseño UX/UI<br></p>
 
 ###
 
